@@ -1,4 +1,4 @@
-# Chat-Soket
+# Chat-Socket
 
 ### Projet Java - Chat sous Socket:
 
