@@ -13,4 +13,4 @@ The project consists of a socket-based chat system in Java, integrating messagin
 
 In summary, this project offers a real-time communication platform with messaging, multiple connection management, private messaging and text file sharing features, all implemented in Java with a Swing user interface.
 
-The project was developed on visual studio code using the Java language
+The project was developed on visual studio code using the Java 17 language
