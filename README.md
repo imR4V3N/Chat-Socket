@@ -1,14 +1,16 @@
 # Chat-Socket
 
-### Projet Java - Chat sous Socket:
+### Java Project - Chat under Socket:
 
-Le projet consiste en un système de chat basé sur des sockets en Java, intégrant des fonctionnalités de messagerie entre plusieurs clients gérés par un serveur. Voici un aperçu des fonctionnalités principales :
+The project consists of a socket-based chat system in Java, integrating messaging functionality between multiple clients managed by a server. Here is an overview of the main features **:**
 
-1. **Chat entre clients géré par un serveur** : Les clients peuvent se connecter au serveur et échanger des messages en temps réel avec d'autres clients connectés.
-2. **Support du multi-threading** : Le serveur est capable de gérer simultanément plusieurs connexions clientes grâce à un modèle multi-thread.
-3. **Limite du nombre de clients connectés** : Le serveur peut limiter le nombre de clients pouvant se connecter simultanément pour garantir des performances optimales.
-4. **Messagerie privée** : Les clients ont la possibilité d'envoyer des messages privés à un autre client spécifié, assurant ainsi la confidentialité des échanges.
-5. **Envoi de fichiers textuels au serveur** : En plus des messages texte, les clients peuvent également envoyer des fichiers textuels au serveur pour partager des documents.
-6. **Technologie Java Swing** : L'interface graphique du client est développée en utilisant la bibliothèque Java Swing, offrant une interface utilisateur conviviale et interactive.
+1. **Chat between customers managed by a server** : Clients can connect to the server and exchange messages in real time with other connected clients.
+2. **Multi-threading support** : The server is capable of handling multiple client connections simultaneously thanks to a multi-threaded model.
+3. **Limit on the number of connected clients** : The server may limit the number of clients that can connect simultaneously to ensure optimal performance.
+4. **Private messaging** : Customers have the ability to send private messages to another specified customer, ensuring confidentiality of exchanges.
+5. **Sending text files to server** : In addition to text messages, clients can also send text files to the server to share documents.
+6. **Java Swing Technology** : The client GUI is developed using the Java Swing library, providing a friendly and interactive user interface.
 
-En résumé, ce projet propose une plateforme de communication en temps réel avec des fonctionnalités de messagerie, de gestion des connexions multiples, de messagerie privée et de partage de fichiers textuels, le tout implémenté en Java avec une interface utilisateur Swing.
+In summary, this project offers a real-time communication platform with messaging, multiple connection management, private messaging and text file sharing features, all implemented in Java with a Swing user interface.
+
+The project was developed on visual studio code using the Java language
